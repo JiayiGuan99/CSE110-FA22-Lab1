@@ -15,4 +15,10 @@ git commit
 git push
 ```
 
+A little about me:
+
+I'm a senior Math-CS major student, and my personal interest is video game development, especially in the graphic aspect. I'm trying to learn more about the game industry right now, along with some graph technologies by takie the CSE167 series courses offered at UCSD.
+
+I'm also a video game streamer, just for fun. My channel is [Twitch](https://www.twitch.tv/shikakanee).
+
 ![cat pics!](https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?resize=1320%2C1320&ssl=1)
