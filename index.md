@@ -6,10 +6,10 @@ A quote I really like:
 >"Life is like riding a bicycle. To keep your balance, you must keep moving."   ---Albert Einstein
 
 Some git commands I used for this lab:
->`git clone`
->
->`git branch`
->
+`git clone`
+
+`git branch`
+
 >`git checkout`
 >
 >`git add`
