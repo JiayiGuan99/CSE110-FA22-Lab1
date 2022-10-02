@@ -21,7 +21,16 @@ I'm a senior Math-CS major student, and my personal interest is video game devel
 
 I'm also a amateur video game streamer, just doing it for fun. My channel is [here](https://www.twitch.tv/shikakanee).
 
+I love music a lot, especilly Kpop, Jpop, and Jrock, here's some of my favorite artists:
+* Taeyeon
+* Baekhyun
+* One Ok Rock
+* YOASOBI
+
+
+
+
+
 Some cute cat pics:
 ![cat pic1](https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?resize=1320%2C1320&ssl=1)
-(Relative links)
-[2](1.jpg)
+[Click for more](1.jpg)
