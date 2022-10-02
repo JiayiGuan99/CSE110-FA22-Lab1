@@ -24,4 +24,4 @@ I'm also a amateur video game streamer, just doing it for fun. My channel is [he
 Some cute cat pics:
 ![cat pic1](https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?resize=1320%2C1320&ssl=1)
 (Relative links)
-[2](docs/1.jpg)
+[2](1.jpg)
