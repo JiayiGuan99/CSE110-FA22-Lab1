@@ -7,10 +7,16 @@ A quote I really like:
 
 Some git commands I used for this lab:
 >`git clone`
+>
 >`git branch`
+>
 >`git checkout`
+>
 >`git add`
+>
 >`git commit`
+>
 >`git push`
+>
 
 ![cat pics!](https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?resize=1320%2C1320&ssl=1)
