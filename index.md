@@ -27,9 +27,23 @@ I love music a lot, especilly Kpop, Jpop, and Jrock, here's some of my favorite 
 * One Ok Rock
 * YOASOBI
 
+Some languages I know in order of proficiency:
+1. Chinese Mandarin/Shanghainese
+2. English
+3. Korean
+4. Japanese
+5. French
 
 
-
+Life Goals:
+- [x] Study abroad
+- [ ] Skydiving
+- [ ] Make a game of my own
+- [ ] Watch OOR's concert in Japan
+- [x] Get into college with a major I like
+- [ ] Master's degree
+- [ ] A job in game industry
+- [ ] Get rich
 
 Some cute cat pics:
 ![cat pic1](https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?resize=1320%2C1320&ssl=1)
