@@ -8,15 +8,10 @@ A quote I really like:
 Some git commands I used for this lab:
 ```
 git clone
-
 git branch
-
 git checkout
-
 git add
-
 git commit
-
 git push
 ```
 
