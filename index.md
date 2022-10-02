@@ -1,6 +1,6 @@
-#**Jiayi Guan's User Page**
+# **Jiayi Guan's User Page**
 
-##*CSE110 FA22*
+## *CSE110 FA22*
 
 A quote I really like:
 >"Life is like riding a bicycle. To keep your balance, you must keep moving."   ---Albert Einstein
